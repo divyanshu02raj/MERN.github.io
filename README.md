@@ -48,6 +48,6 @@ SmartBridge/
 ### **Author**  
 👤 **Divyanshu Raj**  
 📧 Email: divyanshuraj2206@gmail.com
-🔗 GitHub: [github.com/CaSh007s](https://github.com/divyanshu02raj)  
+🔗 GitHub: [https://github.com/divyanshu02raj](https://github.com/divyanshu02raj)  
 
 ---
